@@ -10,11 +10,11 @@ function SelectSector() {
       <div></div>
       <div>
         <div id="sectors" class="card-body">
-            <div className="btn" style={{backgroundColor:"coral"}}>Otomative</div>
-            <div className="btn" style={{backgroundColor:"lightblue"}}>Gıda</div>
-            <div className="btn" style={{backgroundColor:"khaki"}}>Teksil</div>
-            <div className="btn" style={{backgroundColor:"pink"}}>Elektrik Elektronik</div>
-            <div className="btn" style={{backgroundColor:"lightgrey"}}>Mobilya</div>
+            <div className="btn css" style={{backgroundColor:"coral"}}><article><h2>Otomobil</h2></article></div>
+            <div className="btn" style={{backgroundColor:"black"}}><article><h2>Gıda</h2></article></div>
+            <div className="btn" style={{backgroundColor:"darkblue"}}><article><h2>Teksil</h2></article></div>
+            <div className="btn" style={{backgroundColor:"red"}}><article><h2>Elektrik Elektronik</h2></article></div>
+            <div className="btn" style={{backgroundColor:"lightgrey"}}><article><h2>Mobilya</h2></article></div>
           {/* Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
           terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
           skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
